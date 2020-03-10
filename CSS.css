@@ -119,6 +119,7 @@ body {
 .frontimage {
 	height: 30vh;
 	float: center;
+	margin: auto;
 	
 }
 
